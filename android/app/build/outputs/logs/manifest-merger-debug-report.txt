@@ -1,0 +1,526 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/akash/.gradle/caches/transforms-3/ad9f924d5187f6e34566ee016b79d9b4/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/akash/.gradle/caches/transforms-3/59b8fcdd96ea2193bb50d97069fa26c6/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/akash/.gradle/caches/transforms-3/dee85fa870ef2b6a95a98ca50aed6c7c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_clipboard] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-google-signin_google-signin] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/akash/.gradle/caches/transforms-3/f63d1dec5b8b462126821d2a90b1c47d/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/akash/.gradle/caches/transforms-3/45494ccd89ff6e31ae57d656a0b7cf1c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:17:1-73:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/akash/.gradle/caches/transforms-3/fd07c1c9e7b048dee63de3a719afcb59/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-reanimated/android/build/.transforms/eb7c395d1e62c596462629bfdbf2bd60/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/akash/.gradle/caches/transforms-3/56908d47674dd17444ad94a96931c9fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/akash/.gradle/caches/transforms-3/77c41cb5efc724d9236f6907dd7525a3/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/akash/.gradle/caches/transforms-3/976625f0894d4c364a917aaf31a7a3b7/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/akash/.gradle/caches/transforms-3/76fe9ece8d593c791493ed90e77313a8/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/akash/.gradle/caches/transforms-3/69df058fe527c6a65b8df11d36c261d4/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/akash/.gradle/caches/transforms-3/cc2079d19431af59a16335989f1cf03d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/akash/.gradle/caches/transforms-3/ecab681a46fe819fa8bb8a625fab1dba/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/akash/.gradle/caches/transforms-3/864f10c543edde8e8c53f72ce15bfff6/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/akash/.gradle/caches/transforms-3/0daa389dbba1878f77329968bb3e553c/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/akash/.gradle/caches/transforms-3/5a2d7de2c657700560c9ede9a4b06f2e/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/akash/.gradle/caches/transforms-3/b32b55ec2f1570ed327e9c84590c476d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/akash/.gradle/caches/transforms-3/5576d44ed99076087a4b031db484baa3/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/akash/.gradle/caches/transforms-3/c51d13362ad2900f0eab5dfb33853a1a/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/akash/.gradle/caches/transforms-3/1f6681bdfd3d3c74845c5795ccb7603a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/akash/.gradle/caches/transforms-3/0ecc514179c64d9783b0c6b45b2e0c9a/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/akash/.gradle/caches/transforms-3/c262eca05c938372d27a2efad304ea8e/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/akash/.gradle/caches/transforms-3/378a4817c89be6ccb1f5843bb09fdfa4/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/akash/.gradle/caches/transforms-3/1523dd5a58d45db45d865488793c1d24/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/akash/.gradle/caches/transforms-3/b86ac2f33302f8ed55728e23b9091597/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/akash/.gradle/caches/transforms-3/dfe7046b25075ba6aaa666535c108b2e/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/akash/.gradle/caches/transforms-3/78b93902844997047a3d410a37c12208/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/akash/.gradle/caches/transforms-3/6937821a52cc423696d39b9518c08d34/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/akash/.gradle/caches/transforms-3/bc71d54a9aef90c55c859a579c0a16d7/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/akash/.gradle/caches/transforms-3/ca05a34d6c5d3d969c361a3f081d8463/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/akash/.gradle/caches/transforms-3/1a07344f5484b4ada1ebdf1dce2b9a96/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/akash/.gradle/caches/transforms-3/10a6f8afe3fdc3108396320ae4b1d07c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/akash/.gradle/caches/transforms-3/39b1fc84f586de6736141d4cbff24ae5/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/akash/.gradle/caches/transforms-3/29a68b3e712dd0fb2ed9e942f6bb0f50/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/akash/.gradle/caches/transforms-3/44c64982869321d1dfdf05c3e328797b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/akash/.gradle/caches/transforms-3/77faeeaaee7a8579b6580d1a538f38a0/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/akash/.gradle/caches/transforms-3/4cca9a9832dc68f459aba16932383d35/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/akash/.gradle/caches/transforms-3/c597ec012aaffd10f5ed83e8ecbc3f88/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/04b5c3dfb299ca96060e6c3e4bce6c02/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/akash/.gradle/caches/transforms-3/fb4fdd2977d044f9a946ff26e681577a/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/akash/.gradle/caches/transforms-3/ecb48b839f8f6ff6988ee52978aaba09/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/akash/.gradle/caches/transforms-3/40463fcad85a6dbdf3525c2419600ed7/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/akash/.gradle/caches/transforms-3/1c9ad4a7c1884bd6625f41f6d361310a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/akash/.gradle/caches/transforms-3/fb48dc679487d3e21651e8a95bb815aa/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/akash/.gradle/caches/transforms-3/91cf6563beb92c48e9bbb19d003b2751/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/akash/.gradle/caches/transforms-3/81485f917d643626bb4a9c18d70a2913/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/akash/.gradle/caches/transforms-3/3f1832ff402a0f593175a0aa9916edfa/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/akash/.gradle/caches/transforms-3/0d616d517ff6582c5a12b46199b3f733/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/akash/.gradle/caches/transforms-3/c9d16dc1c5923e311bf37b474d9b5901/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/akash/.gradle/caches/transforms-3/cd4153074b318adda333f941e33ee42b/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/akash/.gradle/caches/transforms-3/459ed06bc672997f7b9e473ae4071246/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/akash/.gradle/caches/transforms-3/8106b5541f378ff7ef8af3527b41b1fc/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/akash/.gradle/caches/transforms-3/a1ef842114c43d12b024da10fb1b84e5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/akash/.gradle/caches/transforms-3/9304b424ec11757493fa7620a632247f/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/akash/.gradle/caches/transforms-3/0065870d410e3d07af1b555b7369ba5a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/akash/.gradle/caches/transforms-3/3b16a487c50e54149e62a9438adf0eed/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/akash/.gradle/caches/transforms-3/7c47c56c0427c44c952c05e0c9aea707/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/akash/.gradle/caches/transforms-3/048df2486791deba7594dc3880d59fda/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/akash/.gradle/caches/transforms-3/205cbebf55b4905341fd887953a94b03/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/akash/.gradle/caches/transforms-3/b26c3b6e1a09356ac419f48ac36b4265/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/akash/.gradle/caches/transforms-3/d0b30a9f2d87d80ba918b04bebbe570d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/akash/.gradle/caches/transforms-3/16101e554a2f80bda4e75dd48f9186f7/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/akash/.gradle/caches/transforms-3/4e2d913c04680b4a0e426d47e0bd5578/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/akash/.gradle/caches/transforms-3/fe9426b5e3efeeab63f12d80f0e410d8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/akash/.gradle/caches/transforms-3/b2845dee0ca65c5062b9a87667e5b216/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:2:3-34
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:2:3-34
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/akash/.gradle/caches/transforms-3/ad9f924d5187f6e34566ee016b79d9b4/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/akash/.gradle/caches/transforms-3/ad9f924d5187f6e34566ee016b79d9b4/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/akash/.gradle/caches/transforms-3/f63d1dec5b8b462126821d2a90b1c47d/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/akash/.gradle/caches/transforms-3/f63d1dec5b8b462126821d2a90b1c47d/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/akash/.gradle/caches/transforms-3/56908d47674dd17444ad94a96931c9fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/akash/.gradle/caches/transforms-3/56908d47674dd17444ad94a96931c9fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/akash/.gradle/caches/transforms-3/5576d44ed99076087a4b031db484baa3/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/akash/.gradle/caches/transforms-3/5576d44ed99076087a4b031db484baa3/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/akash/.gradle/caches/transforms-3/378a4817c89be6ccb1f5843bb09fdfa4/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/akash/.gradle/caches/transforms-3/378a4817c89be6ccb1f5843bb09fdfa4/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/akash/.gradle/caches/transforms-3/4cca9a9832dc68f459aba16932383d35/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/akash/.gradle/caches/transforms-3/4cca9a9832dc68f459aba16932383d35/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/akash/.gradle/caches/transforms-3/fb4fdd2977d044f9a946ff26e681577a/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/akash/.gradle/caches/transforms-3/fb4fdd2977d044f9a946ff26e681577a/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] /Users/akash/.gradle/caches/transforms-3/9304b424ec11757493fa7620a632247f/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/akash/.gradle/caches/transforms-3/9304b424ec11757493fa7620a632247f/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/akash/.gradle/caches/transforms-3/205cbebf55b4905341fd887953a94b03/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/akash/.gradle/caches/transforms-3/205cbebf55b4905341fd887953a94b03/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/akash/.gradle/caches/transforms-3/9304b424ec11757493fa7620a632247f/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.authenticationapp.MainActivity
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:exported
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:18:9-32
+	android:configChanges
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/akash/.gradle/caches/transforms-3/ad9f924d5187f6e34566ee016b79d9b4/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/akash/.gradle/caches/transforms-3/ad9f924d5187f6e34566ee016b79d9b4/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/akash/.gradle/caches/transforms-3/59b8fcdd96ea2193bb50d97069fa26c6/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/akash/.gradle/caches/transforms-3/59b8fcdd96ea2193bb50d97069fa26c6/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/akash/.gradle/caches/transforms-3/dee85fa870ef2b6a95a98ca50aed6c7c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/akash/.gradle/caches/transforms-3/dee85fa870ef2b6a95a98ca50aed6c7c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_clipboard] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-community/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-google-signin_google-signin] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/akash/.gradle/caches/transforms-3/f63d1dec5b8b462126821d2a90b1c47d/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/akash/.gradle/caches/transforms-3/f63d1dec5b8b462126821d2a90b1c47d/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/akash/.gradle/caches/transforms-3/45494ccd89ff6e31ae57d656a0b7cf1c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/akash/.gradle/caches/transforms-3/45494ccd89ff6e31ae57d656a0b7cf1c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:21:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/akash/.gradle/caches/transforms-3/fd07c1c9e7b048dee63de3a719afcb59/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/akash/.gradle/caches/transforms-3/fd07c1c9e7b048dee63de3a719afcb59/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-reanimated/android/build/.transforms/eb7c395d1e62c596462629bfdbf2bd60/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/react-native-reanimated/android/build/.transforms/eb7c395d1e62c596462629bfdbf2bd60/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/akash/.gradle/caches/transforms-3/56908d47674dd17444ad94a96931c9fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/akash/.gradle/caches/transforms-3/56908d47674dd17444ad94a96931c9fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/akash/.gradle/caches/transforms-3/77c41cb5efc724d9236f6907dd7525a3/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/akash/.gradle/caches/transforms-3/77c41cb5efc724d9236f6907dd7525a3/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/akash/.gradle/caches/transforms-3/976625f0894d4c364a917aaf31a7a3b7/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/akash/.gradle/caches/transforms-3/976625f0894d4c364a917aaf31a7a3b7/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/akash/.gradle/caches/transforms-3/76fe9ece8d593c791493ed90e77313a8/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/akash/.gradle/caches/transforms-3/76fe9ece8d593c791493ed90e77313a8/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/akash/.gradle/caches/transforms-3/69df058fe527c6a65b8df11d36c261d4/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/akash/.gradle/caches/transforms-3/69df058fe527c6a65b8df11d36c261d4/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/akash/.gradle/caches/transforms-3/cc2079d19431af59a16335989f1cf03d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/akash/.gradle/caches/transforms-3/cc2079d19431af59a16335989f1cf03d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/akash/.gradle/caches/transforms-3/ecab681a46fe819fa8bb8a625fab1dba/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/akash/.gradle/caches/transforms-3/ecab681a46fe819fa8bb8a625fab1dba/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/akash/.gradle/caches/transforms-3/864f10c543edde8e8c53f72ce15bfff6/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/akash/.gradle/caches/transforms-3/864f10c543edde8e8c53f72ce15bfff6/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/akash/.gradle/caches/transforms-3/0daa389dbba1878f77329968bb3e553c/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/akash/.gradle/caches/transforms-3/0daa389dbba1878f77329968bb3e553c/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/akash/.gradle/caches/transforms-3/5a2d7de2c657700560c9ede9a4b06f2e/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/akash/.gradle/caches/transforms-3/5a2d7de2c657700560c9ede9a4b06f2e/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/akash/.gradle/caches/transforms-3/b32b55ec2f1570ed327e9c84590c476d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/akash/.gradle/caches/transforms-3/b32b55ec2f1570ed327e9c84590c476d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/akash/.gradle/caches/transforms-3/5576d44ed99076087a4b031db484baa3/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/akash/.gradle/caches/transforms-3/5576d44ed99076087a4b031db484baa3/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/akash/.gradle/caches/transforms-3/c51d13362ad2900f0eab5dfb33853a1a/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/akash/.gradle/caches/transforms-3/c51d13362ad2900f0eab5dfb33853a1a/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/akash/.gradle/caches/transforms-3/1f6681bdfd3d3c74845c5795ccb7603a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/akash/.gradle/caches/transforms-3/1f6681bdfd3d3c74845c5795ccb7603a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/akash/.gradle/caches/transforms-3/0ecc514179c64d9783b0c6b45b2e0c9a/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/akash/.gradle/caches/transforms-3/0ecc514179c64d9783b0c6b45b2e0c9a/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/akash/.gradle/caches/transforms-3/c262eca05c938372d27a2efad304ea8e/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/akash/.gradle/caches/transforms-3/c262eca05c938372d27a2efad304ea8e/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/akash/.gradle/caches/transforms-3/378a4817c89be6ccb1f5843bb09fdfa4/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/akash/.gradle/caches/transforms-3/378a4817c89be6ccb1f5843bb09fdfa4/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/akash/.gradle/caches/transforms-3/1523dd5a58d45db45d865488793c1d24/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/akash/.gradle/caches/transforms-3/1523dd5a58d45db45d865488793c1d24/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/akash/.gradle/caches/transforms-3/b86ac2f33302f8ed55728e23b9091597/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/akash/.gradle/caches/transforms-3/b86ac2f33302f8ed55728e23b9091597/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/akash/.gradle/caches/transforms-3/dfe7046b25075ba6aaa666535c108b2e/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/akash/.gradle/caches/transforms-3/dfe7046b25075ba6aaa666535c108b2e/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/akash/.gradle/caches/transforms-3/78b93902844997047a3d410a37c12208/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/akash/.gradle/caches/transforms-3/78b93902844997047a3d410a37c12208/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/akash/.gradle/caches/transforms-3/6937821a52cc423696d39b9518c08d34/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/akash/.gradle/caches/transforms-3/6937821a52cc423696d39b9518c08d34/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/akash/.gradle/caches/transforms-3/bc71d54a9aef90c55c859a579c0a16d7/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/akash/.gradle/caches/transforms-3/bc71d54a9aef90c55c859a579c0a16d7/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/akash/.gradle/caches/transforms-3/ca05a34d6c5d3d969c361a3f081d8463/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/akash/.gradle/caches/transforms-3/ca05a34d6c5d3d969c361a3f081d8463/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/akash/.gradle/caches/transforms-3/1a07344f5484b4ada1ebdf1dce2b9a96/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/akash/.gradle/caches/transforms-3/1a07344f5484b4ada1ebdf1dce2b9a96/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/akash/.gradle/caches/transforms-3/10a6f8afe3fdc3108396320ae4b1d07c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/akash/.gradle/caches/transforms-3/10a6f8afe3fdc3108396320ae4b1d07c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/akash/.gradle/caches/transforms-3/39b1fc84f586de6736141d4cbff24ae5/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/akash/.gradle/caches/transforms-3/39b1fc84f586de6736141d4cbff24ae5/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/akash/.gradle/caches/transforms-3/29a68b3e712dd0fb2ed9e942f6bb0f50/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/akash/.gradle/caches/transforms-3/29a68b3e712dd0fb2ed9e942f6bb0f50/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/akash/.gradle/caches/transforms-3/44c64982869321d1dfdf05c3e328797b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/akash/.gradle/caches/transforms-3/44c64982869321d1dfdf05c3e328797b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/akash/.gradle/caches/transforms-3/77faeeaaee7a8579b6580d1a538f38a0/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/akash/.gradle/caches/transforms-3/77faeeaaee7a8579b6580d1a538f38a0/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/akash/.gradle/caches/transforms-3/4cca9a9832dc68f459aba16932383d35/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/akash/.gradle/caches/transforms-3/4cca9a9832dc68f459aba16932383d35/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/akash/.gradle/caches/transforms-3/c597ec012aaffd10f5ed83e8ecbc3f88/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/akash/.gradle/caches/transforms-3/c597ec012aaffd10f5ed83e8ecbc3f88/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/04b5c3dfb299ca96060e6c3e4bce6c02/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/04b5c3dfb299ca96060e6c3e4bce6c02/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/akash/.gradle/caches/transforms-3/fb4fdd2977d044f9a946ff26e681577a/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/akash/.gradle/caches/transforms-3/fb4fdd2977d044f9a946ff26e681577a/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/akash/.gradle/caches/transforms-3/ecb48b839f8f6ff6988ee52978aaba09/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/akash/.gradle/caches/transforms-3/ecb48b839f8f6ff6988ee52978aaba09/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/akash/.gradle/caches/transforms-3/40463fcad85a6dbdf3525c2419600ed7/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/akash/.gradle/caches/transforms-3/40463fcad85a6dbdf3525c2419600ed7/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/akash/.gradle/caches/transforms-3/1c9ad4a7c1884bd6625f41f6d361310a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/akash/.gradle/caches/transforms-3/1c9ad4a7c1884bd6625f41f6d361310a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] /Users/akash/.gradle/caches/transforms-3/fb48dc679487d3e21651e8a95bb815aa/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/akash/.gradle/caches/transforms-3/fb48dc679487d3e21651e8a95bb815aa/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/akash/.gradle/caches/transforms-3/91cf6563beb92c48e9bbb19d003b2751/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/akash/.gradle/caches/transforms-3/91cf6563beb92c48e9bbb19d003b2751/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/akash/.gradle/caches/transforms-3/81485f917d643626bb4a9c18d70a2913/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/akash/.gradle/caches/transforms-3/81485f917d643626bb4a9c18d70a2913/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/akash/.gradle/caches/transforms-3/3f1832ff402a0f593175a0aa9916edfa/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/akash/.gradle/caches/transforms-3/3f1832ff402a0f593175a0aa9916edfa/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/akash/.gradle/caches/transforms-3/0d616d517ff6582c5a12b46199b3f733/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/akash/.gradle/caches/transforms-3/0d616d517ff6582c5a12b46199b3f733/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/akash/.gradle/caches/transforms-3/c9d16dc1c5923e311bf37b474d9b5901/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/akash/.gradle/caches/transforms-3/c9d16dc1c5923e311bf37b474d9b5901/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/akash/.gradle/caches/transforms-3/cd4153074b318adda333f941e33ee42b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/akash/.gradle/caches/transforms-3/cd4153074b318adda333f941e33ee42b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/akash/.gradle/caches/transforms-3/459ed06bc672997f7b9e473ae4071246/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/akash/.gradle/caches/transforms-3/459ed06bc672997f7b9e473ae4071246/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/akash/.gradle/caches/transforms-3/8106b5541f378ff7ef8af3527b41b1fc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/akash/.gradle/caches/transforms-3/8106b5541f378ff7ef8af3527b41b1fc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/akash/.gradle/caches/transforms-3/a1ef842114c43d12b024da10fb1b84e5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/akash/.gradle/caches/transforms-3/a1ef842114c43d12b024da10fb1b84e5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/akash/.gradle/caches/transforms-3/9304b424ec11757493fa7620a632247f/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/akash/.gradle/caches/transforms-3/9304b424ec11757493fa7620a632247f/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/akash/.gradle/caches/transforms-3/0065870d410e3d07af1b555b7369ba5a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/akash/.gradle/caches/transforms-3/0065870d410e3d07af1b555b7369ba5a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/akash/.gradle/caches/transforms-3/3b16a487c50e54149e62a9438adf0eed/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/akash/.gradle/caches/transforms-3/3b16a487c50e54149e62a9438adf0eed/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/akash/.gradle/caches/transforms-3/7c47c56c0427c44c952c05e0c9aea707/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/akash/.gradle/caches/transforms-3/7c47c56c0427c44c952c05e0c9aea707/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/akash/.gradle/caches/transforms-3/048df2486791deba7594dc3880d59fda/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/akash/.gradle/caches/transforms-3/048df2486791deba7594dc3880d59fda/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/akash/.gradle/caches/transforms-3/205cbebf55b4905341fd887953a94b03/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/akash/.gradle/caches/transforms-3/205cbebf55b4905341fd887953a94b03/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/akash/.gradle/caches/transforms-3/b26c3b6e1a09356ac419f48ac36b4265/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/akash/.gradle/caches/transforms-3/b26c3b6e1a09356ac419f48ac36b4265/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/akash/.gradle/caches/transforms-3/d0b30a9f2d87d80ba918b04bebbe570d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/akash/.gradle/caches/transforms-3/d0b30a9f2d87d80ba918b04bebbe570d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/akash/.gradle/caches/transforms-3/16101e554a2f80bda4e75dd48f9186f7/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/akash/.gradle/caches/transforms-3/16101e554a2f80bda4e75dd48f9186f7/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/akash/.gradle/caches/transforms-3/4e2d913c04680b4a0e426d47e0bd5578/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/akash/.gradle/caches/transforms-3/4e2d913c04680b4a0e426d47e0bd5578/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/akash/.gradle/caches/transforms-3/fe9426b5e3efeeab63f12d80f0e410d8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/akash/.gradle/caches/transforms-3/fe9426b5e3efeeab63f12d80f0e410d8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/akash/.gradle/caches/transforms-3/b2845dee0ca65c5062b9a87667e5b216/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/akash/.gradle/caches/transforms-3/b2845dee0ca65c5062b9a87667e5b216/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/akash/.gradle/caches/transforms-3/ad9f924d5187f6e34566ee016b79d9b4/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/akash/.gradle/caches/transforms-3/ad9f924d5187f6e34566ee016b79d9b4/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/akash/Applications/React Projects/React Native Template/AuthenticationApp/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-88
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] /Users/akash/.gradle/caches/transforms-3/f8237f8399b41d75a4911b650a1e4983/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:68:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/akash/.gradle/caches/transforms-3/f18d12e1ac7b4f9f5ba5a036b9043024/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/akash/.gradle/caches/transforms-3/7cc0498efddfca1dfc52b448bbbd796a/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/akash/.gradle/caches/transforms-3/e22e77592ae6428d3b703d055309f486/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/akash/.gradle/caches/transforms-3/4d471878f6ffaef6084b2fb4759aeb25/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58

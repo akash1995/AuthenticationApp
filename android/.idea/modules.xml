@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthenticationApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthenticationApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AuthenticationApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AuthenticationApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-23181865/AuthenticationApp.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-23181865/AuthenticationApp.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2118962223/AuthenticationApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2118962223/AuthenticationApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/189255684/AuthenticationApp.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/189255684/AuthenticationApp.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1820766349/AuthenticationApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1820766349/AuthenticationApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1159566552/AuthenticationApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1159566552/AuthenticationApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1015849712/AuthenticationApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1015849712/AuthenticationApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/520082253/AuthenticationApp.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/520082253/AuthenticationApp.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2118555330/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/2118555330/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>

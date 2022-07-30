@@ -1,0 +1,6 @@
+module Pods_AuthenticationApp_AuthenticationAppTests {
+  umbrella header "Pods-AuthenticationApp-AuthenticationAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
